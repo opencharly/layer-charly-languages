@@ -1,7 +1,5 @@
-version: 2026.232.0520
 charly-languages:
     candy:
-        version: 2026.218.1200
         description: |-
             Metadata concept candy owning the charly-languages skills whose names have no namesake candy (python/pixi). Owns its family's `skill:` kind entities (sibling nodes in this file) — the
             the plugins→candies migration; candy/plugin-marketplace regenerates the marketplace
